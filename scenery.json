@@ -1,0 +1,114 @@
+﻿{
+    "Palm Double Curved": {
+		"model": "PalmTreeDouble",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+	"Palm Double Curved Small": {
+		"model": "PalmTreeDoubleSmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+	"Palm Double Straight": {
+		"model": "PalmTreeDouble2",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+	"Palm Double Straight Small": {
+		"model": "PalmTreeDouble2Small",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+	"Palm Single Straight": {
+		"model": "PalmTreeSingle",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Palm Single Straight Small": {
+		"model": "PalmTreeSingleSmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Palm Single Curved": {
+		"model": "PalmTreeSingle2",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Palm Single Curved Small": {
+		"model": "PalmTreeSingle2Small",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Palm Triple": {
+		"model": "PalmTreeTriple",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Palm Triple Small": {
+		"model": "PalmTreeTripleSmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Cactus Tall": {
+		"model": "Cactustall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Cactus Tall (smaller)": {
+		"model": "CactustallSmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Cactus Group": {
+		"model": "CactusMany",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Cactus Group (smaller)": {
+		"model": "CactusManySmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Cactus Group 2": {
+		"model": "CactusFlower",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+	"Cactus Group 2 (smaller)": {
+		"model": "CactusFlowerSmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+}
