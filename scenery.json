@@ -111,4 +111,60 @@
 		"gridSubdivision": 2.0,
 		"snapCenter": false
 	}
+	"Cactus with flowers": {
+		"model": "CactusBranch",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+	"Cactus with flowers (smaller)": {
+		"model": "CactusBranchSmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+	"Cactus Large": {
+		"model": "CactusFat",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Cactus Large (smaller)": {
+		"model": "CactusFatSmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+		"Cactus Plant": {
+		"model": "CactusLeafy",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+			"Cactus Plant (smaller)": {
+		"model": "CactusLeafySmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+			"Cactus Short": {
+		"model": "CactusShort",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+			"Cactus Short (smaller)": {
+		"model": "CactusShortSmall",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
 }

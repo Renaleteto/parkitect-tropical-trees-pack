@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2457706981
+CRC: 3214363119
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2ac5270ea971a9ac3d599cdcc0bc42f7
+    Hash: 3396dffe05cdb8fa9a2ccf839bba6f78
   TypeTreeHash:
     serializedVersion: 2
     Hash: 62a5754fc1b3d3161f89b4d70f7b37d5
@@ -38,13 +38,21 @@ Assets:
 - Assets/Palm Trees/Prefabs/PalmTreeDoubleSmall.prefab
 - Assets/Palm Trees/Prefabs/PalmTreeDouble.prefab
 - Assets/Palm Trees/Prefabs/PalmTreeSingle2Small.prefab
+- Assets/CactusPack/Prefabs/Used Prefabs/CactusBranchSmall.prefab
 - Assets/CactusPack/Prefabs/Used Prefabs/CactusTallSmall.prefab
+- Assets/CactusPack/Prefabs/Used Prefabs/CactusFat.prefab
 - Assets/Palm Trees/Prefabs/PalmTreeSingleSmall.prefab
 - Assets/Palm Trees/Prefabs/PalmTreeTriple.prefab
+- Assets/CactusPack/Prefabs/Used Prefabs/CactusFatSmall.prefab
 - Assets/Palm Trees/Prefabs/PalmTreeDouble2.prefab
 - Assets/Palm Trees/Prefabs/PalmTreeTripleSmall.prefab
 - Assets/Palm Trees/Prefabs/PalmTreeSingle2.prefab
 - Assets/CactusPack/Prefabs/Used Prefabs/CactusFlower.prefab
+- Assets/CactusPack/Prefabs/Used Prefabs/CactusLeafySmall.prefab
+- Assets/CactusPack/Prefabs/Used Prefabs/CactusShortSmall.prefab
+- Assets/CactusPack/Prefabs/Used Prefabs/CactusShort.prefab
+- Assets/CactusPack/Prefabs/Used Prefabs/CactusBranch.prefab
+- Assets/CactusPack/Prefabs/Used Prefabs/CactusLeafy.prefab
 - Assets/Palm Trees/Prefabs/PalmTreeDouble2Small.prefab
 - Assets/CactusPack/Prefabs/Used Prefabs/CactusTall.prefab
 - Assets/CactusPack/Prefabs/Used Prefabs/CactusManySmall.prefab
