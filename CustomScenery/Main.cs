@@ -26,8 +26,8 @@ namespace Custom_Scenery
             Object.Destroy(_go);
         }
 
-        public string Name { get { return "Custom Scenery Pack"; } }
-        public string Description { get { return "Custom Scenery Pack"; } }
+        public string Name { get { return "Renaleteto's Tropical Trees Pack"; } }
+        public string Description { get { return "Palms and Cactuses for a tropical look!"; } }
         public string Path { get; set; }
         public string Identifier { get; set; }
     }

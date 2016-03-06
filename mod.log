@@ -1,0 +1,232 @@
+[16-03-04 13.21.20] Info: Compiling Renaleteto Tropical Trees Pack to bin/build-160304132120072.dll...
+[16-03-04 13.21.20] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-04 13.21.20] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-04 13.21.20] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-04 13.21.20] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-04 13.21.20] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-04 13.21.20] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-04 13.21.20] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-04 13.21.20] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-04 13.21.20] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-04 13.21.20] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-04 13.21.20] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-05 19:47:28] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-05 19:47:28] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 00:39:15] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 00:39:15] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 14:25:21] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 14:25:21] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 15:07:20] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 15:07:20] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 15:20:09] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 15:20:09] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 15:20:13] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 15:20:14] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 15:20:58] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 15:20:58] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 15:32:08] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 15:32:08] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 15:32:21] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 15:32:21] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 15:40:16] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 15:40:16] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16:16:37] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:16:37] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16:20:32] Info: Loaded build-160304132120072, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:20:32] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.21.26] Info: Compiling Renaleteto Tropical Trees Pack to bin/build-160306162126270.dll...
+[16-03-06 16.21.26] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.21.26] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.21.26] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.21.26] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.21.26] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.21.26] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.21.26] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.21.26] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.21.26] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.21.26] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.21.26] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:21:38] Info: Loaded build-160306162126270, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:21:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.23.15] Info: Compiling Renaleteto Tropical Trees Pack to bin/build-160306162315779.dll...
+[16-03-06 16.23.15] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.23.15] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.23.15] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.23.15] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.23.15] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.23.15] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.23.15] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.23.15] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.23.15] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.23.15] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.23.15] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:28:19] Info: Loaded build-160306162315779, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:28:19] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16:32:17] Info: Loaded build-160306162315779, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:32:17] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.39.19] Info: Compiling Renaleteto Tropical Trees Pack to bin/build-160306163919209.dll...
+[16-03-06 16.39.19] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.39.19] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.39.19] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.39.19] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.39.19] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.39.19] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.39.19] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.39.19] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.39.19] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.39.19] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.39.19] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:40:13] Info: Loaded build-160306163919209, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:40:13] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.43.31] Info: Compiling Your First Mod to bin/build-160306164331116.dll...
+[16-03-06 16.43.31] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.43.31] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.43.31] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.43.31] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.43.31] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.43.31] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.43.31] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.43.31] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.43.31] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.43.31] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.43.31] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:44:05] Info: Loaded build-160306164331116, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:44:05] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.45.34] Info: Compiling Your First Mod to bin/build-160306164534655.dll...
+[16-03-06 16.45.34] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.45.34] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.45.34] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.45.34] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.45.34] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.45.34] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.45.34] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.45.34] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.45.34] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.45.34] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.45.34] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:45:38] Info: Loaded build-160306164534655, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:45:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.47.56] Info: Compiling Your First Mod to bin/build-160306164756984.dll...
+[16-03-06 16.47.56] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.47.56] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.47.56] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.47.56] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.47.56] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.47.56] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.47.56] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.47.56] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.47.56] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.47.56] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.47.56] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:48:27] Info: Loaded build-160306164756984, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:48:27] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16:48:47] Info: Loaded build-160306164756984, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+[16-03-06 16:48:47] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.49.40] Info: Compiling Your First Mod to bin/build-160306164940976.dll...
+[16-03-06 16.49.40] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.49.40] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.49.40] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.49.40] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.49.40] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.49.40] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.49.40] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.49.40] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.49.40] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.49.40] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.49.40] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:49:44] Info: Loaded build-160306164940976, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:49:44] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Custom_Scenery.SceneryLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+[16-03-06 16.50.24] Info: Compiling Your First Mod to bin/build-160306165024715.dll...
+[16-03-06 16.50.24] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.50.24] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.50.24] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.50.24] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.50.24] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.50.24] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.50.24] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.50.24] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.50.24] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.50.24] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.50.24] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:50:30] Info: Loaded build-160306165024715, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:50:30] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.51.34] Info: Compiling Your First Mod to bin/build-160306165134555.dll...
+[16-03-06 16.51.34] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.51.34] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.51.34] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.51.34] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.51.34] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.51.34] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.51.34] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.51.34] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.51.34] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.51.34] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.51.34] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:51:39] Info: Loaded build-160306165134555, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:51:39] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.52.18] Info: Compiling Your First Mod to bin/build-160306165218140.dll...
+[16-03-06 16.52.18] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.52.18] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.52.18] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.52.18] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.52.18] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.52.18] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.52.18] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.52.18] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.52.18] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.52.18] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.52.18] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:52:41] Info: Loaded build-160306165218140, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:52:41] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 16.54.59] Info: Compiling Your First Mod to bin/build-160306165459487.dll...
+[16-03-06 16.54.59] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 16.54.59] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 16.54.59] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 16.54.59] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 16.54.59] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 16.54.59] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 16.54.59] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 16.54.59] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 16.54.59] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 16.54.59] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 16.54.59] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 16:55:03] Info: Loaded build-160306165459487, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 16:55:03] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-03-06 17.02.08] Info: Compiling Your First Mod to bin/build-160306170208283.dll...
+[16-03-06 17.02.08] Info: Compiling from `Custom Scenery.csproj`.
+[16-03-06 17.02.08] Info: Resolved assembly reference `Assembly-CSharp` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-03-06 17.02.08] Info: Resolved assembly reference `System` to `System.dll`
+[16-03-06 17.02.08] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-03-06 17.02.08] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-03-06 17.02.08] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-03-06 17.02.08] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-03-06 17.02.08] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-03-06 17.02.08] Info: Resolved assembly reference `UnityEngine` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.dll`
+[16-03-06 17.02.08] Info: Resolved assembly reference `UnityEngine.UI` to `K:\Stefano 2013 Backup\Youtube\Giochi\Parkitect_Pre-Alpha8\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-03-06 17.02.08] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Stefano\Documents\Parkitect\pnmods\Renaleteto@parkitect-tropical-trees-pack`.
+[16-03-06 17:02:31] Info: Loaded build-160306170208283, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-06 17:02:31] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.

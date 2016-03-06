@@ -1,170 +1,218 @@
 ﻿{
     "Palm Double Curved": {
 		"model": "PalmTreeDouble",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
 	"Palm Double Curved Small": {
 		"model": "PalmTreeDoubleSmall",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
 	"Palm Double Straight": {
 		"model": "PalmTreeDouble2",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
 	"Palm Double Straight Small": {
 		"model": "PalmTreeDouble2Small",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
 	"Palm Single Straight": {
 		"model": "PalmTreeSingle",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Palm Single Straight Small": {
+	"Palm Single Straight Small": {
 		"model": "PalmTreeSingleSmall",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Palm Single Curved": {
+	"Palm Single Curved": {
 		"model": "PalmTreeSingle2",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Palm Single Curved Small": {
+	"Palm Single Curved Small": {
 		"model": "PalmTreeSingle2Small",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Palm Triple": {
+	"Palm Triple": {
 		"model": "PalmTreeTriple",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Palm Triple Small": {
+	"Palm Triple Small": {
 		"model": "PalmTreeTripleSmall",
+		"category": "Nature/Trees",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Cactus Tall": {
+	"Cactus Tall": {
 		"model": "Cactustall",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Cactus Tall (smaller)": {
+	"Cactus Tall (smaller)": {
 		"model": "CactustallSmall",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Cactus Group": {
+	"Cactus Group": {
 		"model": "CactusMany",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Cactus Group (smaller)": {
+	"Cactus Group (smaller)": {
 		"model": "CactusManySmall",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Cactus Group 2": {
+	"Cactus Group 2": {
 		"model": "CactusFlower",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
 	"Cactus Group 2 (smaller)": {
 		"model": "CactusFlowerSmall",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
 	"Cactus with flowers": {
 		"model": "CactusBranch",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
 	"Cactus with flowers (smaller)": {
 		"model": "CactusBranchSmall",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
 	"Cactus Large": {
 		"model": "CactusFat",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Cactus Large (smaller)": {
+	"Cactus Large (smaller)": {
 		"model": "CactusFatSmall",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-		"Cactus Plant": {
+	"Cactus Plant": {
 		"model": "CactusLeafy",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-			"Cactus Plant (smaller)": {
+	"Cactus Plant (smaller)": {
 		"model": "CactusLeafySmall",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-			"Cactus Short": {
+	"Cactus Short": {
 		"model": "CactusShort",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
-			"Cactus Short (smaller)": {
+	"Cactus Short (smaller)": {
 		"model": "CactusShortSmall",
+		"category": "Nature/Plants",
 		"type": "deco",
 		"price": 20.5,
 		"gridSubdivision": 2.0,
-		"snapCenter": false
+		"snapCenter": false,
+		"heightDelta": 0.1
 	}
 }
