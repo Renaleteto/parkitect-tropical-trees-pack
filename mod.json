@@ -1,11 +1,1 @@
-{"BaseDir":"",
-	"CompilerVersion":"v3.5",
-	"CodeFiles":[],
-	"IsDevelopment":false,
-	"IsEnabled":true,
-	"Name":"Renaleteto Tropical Trees Pack",
-	"Project":"Custom Scenery.csproj",
-	"Tag":"2.2.1",
-	"ReferencedAssemblies":[],
-	"Repository":"Renaleteto/parkitect-tropical-trees-pack"
-}
+{"BaseDir":"","CompilerVersion":"v3.5","CodeFiles":[],"IsDevelopment":false,"IsEnabled":true,"Name":"Renaleteto's Tropical Trees Pack","Project":"Custom Scenery.csproj","Tag":"2.2.1","ReferencedAssemblies":[],"Repository":"Renaleteto/parkitect-tropical-trees-pack"}
