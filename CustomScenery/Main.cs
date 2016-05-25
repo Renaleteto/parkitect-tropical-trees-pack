@@ -26,12 +26,8 @@ namespace Custom_Scenery
             Object.Destroy(_go);
         }
 
-        public string Name { get { return "Renaleteto's Tropical Trees Pack"; } }
-<<<<<<< HEAD
-        public string Description { get { return "Palms and Cactuses for a tropical look!"; } }
-=======
-        public string Description { get { return "Some Palms and Cactuses for a tropical look!"; } }
->>>>>>> origin/master
+        public string Name { get { return "Renaleteto Tropical Trees Pack"; } }
+        public string Description { get { return "A pack that includes different plants and trees for a tropical setting!"; } }
         public string Path { get; set; }
         public string Identifier { get; set; }
     }
