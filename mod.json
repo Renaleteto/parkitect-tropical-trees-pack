@@ -1,7 +1,7 @@
 {
     "BaseDir": "",
     "IsDevelopment": true,
-    "Name": "Renaleteto-Tropical-Trees-Pack",
+    "Name": "Your First Mod",
     "Project": "Custom Scenery.csproj",
 	"AssetBundleDir": "assetbundle"
 }
