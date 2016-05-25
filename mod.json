@@ -1,6 +1,6 @@
 {
     "BaseDir": "",
-    "IsDevelopment": true,
+    "IsDevelopment": false,
     "Name": "Renaleteto-Tropical-Trees-Pack",
     "Project": "Custom Scenery.csproj",
 	"AssetBundleDir": "assetbundle"
